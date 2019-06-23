@@ -1,9 +1,9 @@
-<<<<<<< HEAD
+
 Poll SCM 1
-=======
+
 Hello World
 
 Commit through github page
 
 Poll SCM
->>>>>>> 621cc077652c9e0bda11b4776727636c8a83d725
+
